@@ -1,4 +1,6 @@
 # react.js 3d image renderer from pre-rendered files
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/MDSLKTR/render-3d-image-set.svg)](https://greenkeeper.io/)
 3d image renderer build with react.js and hammer.js
 
 ## used techniques
